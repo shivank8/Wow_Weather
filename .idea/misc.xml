@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/WowWeather/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/WowWeather/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/WowWeather/app/src/main/res/layout/rv_daily.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/WowWeather/app/src/main/res/layout/rv_hourly.xml" value="0.20104166666666667" />
       </map>
     </option>
   </component>
